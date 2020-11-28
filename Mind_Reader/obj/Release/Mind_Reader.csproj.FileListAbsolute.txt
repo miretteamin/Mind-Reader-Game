@@ -1,0 +1,10 @@
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\bin\Release\Mind_Reader.exe.config
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\bin\Release\Mind_Reader.exe
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\bin\Release\Mind_Reader.pdb
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\obj\Release\Mind_Reader.StartPage.resources
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\obj\Release\Mind_Reader.Properties.Resources.resources
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\obj\Release\Mind_Reader.TheGame.resources
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\obj\Release\Mind_Reader.csproj.GenerateResource.Cache
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\obj\Release\Mind_Reader.exe
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\obj\Release\Mind_Reader.pdb
+C:\Users\Mirette\Documents\Applications\C#\Other Applications\My Projects\Mind_Reader\Mind_Reader\obj\Release\Mind_Reader.csprojResolveAssemblyReference.cache
